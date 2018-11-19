@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" extends="planned_task" label="Project" max_length="40" name="pm_project" sizeclass="2" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Original Estimate" max_length="40" name="x_275036_integrati_original_estimate" type="string"/>
+    </element>
+</database>

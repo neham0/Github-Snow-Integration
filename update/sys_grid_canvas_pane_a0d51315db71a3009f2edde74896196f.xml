@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+        <grid_canvas display_value="PA New Tab">acd513d1db71a3009f2edde7489619cd</grid_canvas>
+        <height>5</height>
+        <portal_widget display_value="Created 15/11/2018 07:12:38 AM">2cd51315db71a3009f2edde74896196d</portal_widget>
+        <posx>0</posx>
+        <posy>10</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-15 07:12:38</sys_created_on>
+        <sys_id>a0d51315db71a3009f2edde74896196f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>acd513d1db71a3009f2edde7489619cd</sys_name>
+        <sys_package display_value="Integration of SN with Github" source="x_275036_integrati">089ec134dbb923009f2edde748961968</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Integration of SN with Github">089ec134dbb923009f2edde748961968</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_a0d51315db71a3009f2edde74896196f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-15 07:12:38</sys_updated_on>
+        <width>6</width>
+    </sys_grid_canvas_pane>
+</record_update>

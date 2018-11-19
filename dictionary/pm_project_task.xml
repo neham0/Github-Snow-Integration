@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" extends="planned_task" label="Project Task" max_length="40" name="pm_project_task" sizeclass="5" type="collection">
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="Releases" max_length="1024" name="x_275036_integrati_releases" reference="cmdb_ci_appl_dot_net" type="glide_list"/>
+    </element>
+</database>

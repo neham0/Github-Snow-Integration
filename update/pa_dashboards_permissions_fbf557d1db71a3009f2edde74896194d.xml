@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="pa_dashboards_permissions">
+    <pa_dashboards_permissions action="INSERT_OR_UPDATE">
+        <dashboard display_value="My Homepage 2">24d513d1db71a3009f2edde7489619cc</dashboard>
+        <delete>false</delete>
+        <group display_value="Agile Team" name="Agile Team">534d91fadba023009f2edde7489619c8</group>
+        <identity>534d91fadba023009f2edde7489619c8</identity>
+        <read>true</read>
+        <role/>
+        <sys_class_name>pa_dashboards_permissions</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-15 07:13:24</sys_created_on>
+        <sys_id>fbf557d1db71a3009f2edde74896194d</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>534d91fadba023009f2edde7489619c8</sys_name>
+        <sys_package display_value="Integration of SN with Github" source="x_275036_integrati">089ec134dbb923009f2edde748961968</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Integration of SN with Github">089ec134dbb923009f2edde748961968</sys_scope>
+        <sys_update_name>pa_dashboards_permissions_fbf557d1db71a3009f2edde74896194d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-15 07:13:39</sys_updated_on>
+        <type>2</type>
+        <user/>
+        <write>false</write>
+    </pa_dashboards_permissions>
+</record_update>

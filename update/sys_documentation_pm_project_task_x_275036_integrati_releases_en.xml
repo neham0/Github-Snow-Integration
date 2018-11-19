@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="x_275036_integrati_releases" label="Releases" language="en" table="pm_project_task">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>x_275036_integrati_releases</element>
+            <help/>
+            <hint/>
+            <label>Releases</label>
+            <language>en</language>
+            <name>pm_project_task</name>
+            <plural>Releases</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-16 12:45:57</sys_created_on>
+            <sys_id>30bbe9f5dbb123009f2edde748961934</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Releases</sys_name>
+            <sys_package display_value="Integration of SN with Github" source="x_275036_integrati">089ec134dbb923009f2edde748961968</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Integration of SN with Github">089ec134dbb923009f2edde748961968</sys_scope>
+            <sys_update_name>sys_documentation_pm_project_task_x_275036_integrati_releases_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-16 12:45:57</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

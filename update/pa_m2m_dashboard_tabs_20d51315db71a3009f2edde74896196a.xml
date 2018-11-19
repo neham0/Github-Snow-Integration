@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="pa_m2m_dashboard_tabs">
+    <pa_m2m_dashboard_tabs action="INSERT_OR_UPDATE">
+        <dashboard display_value="My Homepage 2">24d513d1db71a3009f2edde7489619cc</dashboard>
+        <home>false</home>
+        <homepage display_value="My Homepage 2">cc951fd1db71a3009f2edde74896197f</homepage>
+        <order>1</order>
+        <sys_class_name>pa_m2m_dashboard_tabs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-15 07:12:38</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>20d51315db71a3009f2edde74896196a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>24d513d1db71a3009f2edde7489619cc</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Integration of SN with Github" source="x_275036_integrati">089ec134dbb923009f2edde748961968</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Integration of SN with Github">089ec134dbb923009f2edde748961968</sys_scope>
+        <sys_update_name>pa_m2m_dashboard_tabs_20d51315db71a3009f2edde74896196a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-15 07:12:38</sys_updated_on>
+        <tab display_value="New Tab">24d51315db71a3009f2edde748961968</tab>
+    </pa_m2m_dashboard_tabs>
+</record_update>
