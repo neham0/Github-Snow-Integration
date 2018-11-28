@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_275036_integrati.NewRole" name="x_275036_integrati.NewRole">19282d8fdb7123009f2edde748961936</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-20 09:43:09</sys_created_on>
+        <sys_id>8238ad03db3123009f2edde748961946</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>19282d8fdb7123009f2edde748961936</sys_name>
+        <sys_package display_value="Integration of SN with Github" source="x_275036_integrati">089ec134dbb923009f2edde748961968</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Integration of SN with Github">089ec134dbb923009f2edde748961968</sys_scope>
+        <sys_update_name>sys_embedded_help_role_8238ad03db3123009f2edde748961946</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-20 09:43:09</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

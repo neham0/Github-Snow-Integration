@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="it_project_user" name="it_project_user">6cdc29723732310033cb26877e41f1c0</contains>
+        <role display_value="x_275036_integrati.Access_Group_A" name="x_275036_integrati.Access_Group_A">2d868a53db3123009f2edde7489619dd</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-21 06:35:42</sys_created_on>
+        <sys_id>c2e6ca13db3123009f2edde7489619f0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>it_project_user.x_275036_integrati.Access_Group_A</sys_name>
+        <sys_package display_value="Integration of SN with Github" source="x_275036_integrati">089ec134dbb923009f2edde748961968</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Integration of SN with Github">089ec134dbb923009f2edde748961968</sys_scope>
+        <sys_update_name>sys_user_role_contains_c2e6ca13db3123009f2edde7489619f0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-21 06:35:42</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>
